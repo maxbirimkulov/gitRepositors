@@ -1,0 +1,17 @@
+.repos{
+
+}
+
+.brand-logo{
+    text-transform: uppercase;
+}
+
+.nav-wrapper{
+    padding: 0 15px;
+}
+
+.repos__img{
+    height: 80%;
+    border-radius: 50%;
+    margin: 6px 20px;
+}
